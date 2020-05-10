@@ -1,0 +1,32 @@
+table,tr,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 305px;
+    background-color: beige;
+}
+button{
+    width: 82px;
+    height: 55px;
+
+    background-image: radial-gradient(white,gray);
+}
+#equal{
+    height:232px;
+    background-image:radial-gradient(white,#f5cd07);
+}
+#clrscrn{
+    background-image:radial-gradient(white,#ed3761);
+}
+#operators{
+background-image:radial-gradient(white,#2e4ac7)
+}
+#result{
+    width: 332px;
+    height:50px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+body{
+    background-image: repeating-linear-gradient(90deg,skyblue,white,skyblue);
+}
